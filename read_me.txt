@@ -1,0 +1,2 @@
+1 - É considerado como um PLID válido todo e qualquer número de 6 dígitos;
+2 - As palavras deixaram de ser escolhidas aleatoriamente e passamos a escolher e atribuir sequencialmente à medida que são iniciados os jogos.
