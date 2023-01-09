@@ -1,1 +1,2 @@
 # RC_Project_1
+This project is developed in C# language and the goal of this project is to create a simple word game, inspired in the classical Hangman Game. The development of the project requires implementing a Game Server (GS) and a Player Application (Player). The GS and multiple Player application instances are intended to operate simultaneously on different machines connected to the Internet.
