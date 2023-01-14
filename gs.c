@@ -1,5 +1,4 @@
 //1.º Projeto de Redes de Computadores - SERVER.C
-//Leonor Marques - 99262
 //Pedro Rodrigues - 99300
 #include <arpa/inet.h>
 #include <ctype.h>
@@ -17,7 +16,7 @@
 #include <unistd.h>
 #include <time.h>
 
-#define GN 32 					//numero do grupo 
+#define GN 32 				//numero do grupo 
 #define	_GSport	58000			//GS port
 #define BUFFERSIZE 128			 
 #define BUFFERSIZE_AUX 31  
