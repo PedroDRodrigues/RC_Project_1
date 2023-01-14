@@ -1,5 +1,4 @@
 //1.º Projeto de Redes de Computadores - PLAYER.C
-//Leonor Marques - 99262
 //Pedro Rodrigues - 99300
 #include <arpa/inet.h>
 #include <ctype.h>
