@@ -422,7 +422,7 @@ void readInput(int argc, char* argv[])
 {	
 	int i = 2;
 
-    if(argc < 2 || argc > 4)
+    if(argc < 2 || argc > 5)
 		exit(1);
 
 	verbose = 0;
